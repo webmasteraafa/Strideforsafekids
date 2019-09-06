@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document 
+Author: Melanie Carver
+Copyright 2013 Momentum Music and Dance Academy. All rights reserved. */
+html {
+	height: 100%; color:#666;
+}
+
+body {text-align:center; /*For IE6 */ 
+	font-family: Arial, Helvetica, sans-serif;
+	height: 100%;  background-color: #fdfdfd;
+    background-image:  url(https://secure.kidswithfoodallergies.org/neon/resource/kidswfa/images/tail-top.gif);
+    background-position: top left;
+    background-repeat: repeat-x;
+	margin:0 auto; width:1000px;  z-index:100; font-size:14px}
+a:link  {color:#8eb524}/*#72beda  original #2F84AC*/
+a:visited {color:#29678c}
+a:hover {color:#afd152;}
+a:active {color:#29678c}
+#sfp-wrapper {
+width: 940px;
+margin: 0 auto;}
+div {
+display: block;
+}
+#menu {font-family:Cabin, Arial, sans serif; font-size:16px; font-weight:700; margin:0 auto; background-color:#1baedc; color:#fff; height:30px }
+#menu a:link {color:#fff; padding:5px; -moz-border-radius: 5px;}
+#menu a:visited {color:#fff; padding:5px; -moz-border-radius: 5px;}
+#menu a:hover {background-color:#fff; color:#1baedc; padding:5px; -moz-border-radius: 5px;}
+
+#content {background-color:#fff; width:1000px}
+
+
+#background-header {background-color:#FFF; z-index:500; padding:0px;  width:1000px; height:260px; margin:0 auto; }
+#logo {margin:8px 0px 2px 18px; float:left; z-index:1000; font-family:Arial; font-size:13px; color: #A3BC56; font-weight:400; vertical-align:top }
+#header-right {margin:10px 8px 2px 0px; float:right; z-index:1000; font-family:Arial; font-size:14px; color: #393; font-weight:500; width:420px;}
+.phone {text-decoration:none; font-size:16px; color:#A3BC56}
+a.phone {color:#A3BC56;}
+.blue {color:#29678c}
+.lightblue {color:#72beda} /*#72beda  original#2F84AC */
+#separator {background-image:url(https://secure.kidswithfoodallergies.org/neon/resource/kidswfa/images/navigation-swoosh.png); margin: 0 auto; width:1000px; display:block; background-color:#fff}
+
+
+#copyright{font-size:12px; color:#A6D56C; background-color:#000;   margin:0px 10px 10px 10px; padding:10px; -moz-border-radius: 5px; border-radius: 5px;}
+h1  {font-family:Droid serif;font-size:22px;line-height:1.1;margin:0; padding:0}
+
+h2{font-family:Arial; font-size:14px; color:#72beda ; font-weight:bold; line-height:1; margin:0; padding:0; text-transform:uppercase}
+
+
+
+.title {font-family:Arial; font-size:14px; color:#fff; !important;}
+.neon2Header {font-family:Arial; font-size:16px; color:#1baedc;}
